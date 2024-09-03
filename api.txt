@@ -1,0 +1,1 @@
+you have to use the api key creating from OpenAI website and put in the secrets in the Hungging face secrets
